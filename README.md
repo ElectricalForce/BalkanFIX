@@ -1,0 +1,2 @@
+# BalkanFIX
+BalkanFix Addon Stremio
